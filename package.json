@@ -1,5 +1,5 @@
 {
-  "name": "bconvert-cli",
+  "name": "@ana/bconvert-cli",
   "dependencies": {
     "commander": "^5.1.0"
   },
@@ -10,5 +10,9 @@
   "bin": {
     "bconvert": "index.js"
   },
-  "author": ""
+  "author": "",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
