@@ -1,5 +1,5 @@
 {
-  "name": "@ana/bconvert-cli",
+  "name": "bconvert-cli",
   "dependencies": {
     "commander": "^5.1.0"
   },
