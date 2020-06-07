@@ -1,0 +1,14 @@
+{
+  "name": "bconvert-cli",
+  "dependencies": {
+    "commander": "^5.1.0"
+  },
+  "version": "1.0.0",
+  "description": "Base coverter CLI",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "bconvert": "index.js"
+  },
+  "author": ""
+}
